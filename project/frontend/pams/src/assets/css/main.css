@@ -1,0 +1,16 @@
+/* global */
+.inline-container { 
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  background-color:whitesmoke;
+  padding:60px;
+}
+
+.content {
+  background-color: gray;
+  padding: 60px;  
+  width: 100%;
+}
